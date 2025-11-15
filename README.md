@@ -482,7 +482,7 @@ Built for Arc Hackathon 2025
 For questions or issues:
 - Open an issue on GitHub
 - Join the Arc Discord
-- Email: [your-email@example.com]
+- Email: [bengtlofgren8@gmail.com]
 
 ---
 
@@ -492,8 +492,3 @@ For questions or issues:
 - Arc team for blockchain platform
 - OpenZeppelin for security patterns
 - Foundry team for testing framework
-
----
-
-**Built with ❤️ for the Arc ecosystem**
-# arcx-hackathon-encode
